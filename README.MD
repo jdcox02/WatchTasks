@@ -102,7 +102,7 @@ The project follows an MVC-like structure, with components organized into Models
 
 For questions or feedback, please reach out to:
 
-- **Name**: Joshua Cox
+- **Name**: Josh Cox
 - **Email**: [jdcox02@gmail.com](mailto:jdcox02@gmail.com)
 - **GitHub**: [jdcox02](https://github.com/jdcox02)
 - **LinkedIn**: [jdcox02](https://www.linkedin.com/in/jdcox02)
