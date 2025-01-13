@@ -1,6 +1,6 @@
-# DailyTasks Watch App
+# WatchTasks
 
-**DailyTasks Watch App** is a SwiftUI-based app designed for watchOS, allowing users to manage their daily tasks, track progress over time, and receive timely notifications as reminders. The app leverages SwiftData, UserNotifications, and the SwiftUI framework to provide an efficient and user-friendly experience directly on the Apple Watch.
+**WatchTasks** is a SwiftUI-based app designed for watchOS, allowing users to manage their daily tasks, track progress over time, and receive timely notifications as reminders. The app leverages SwiftData, UserNotifications, and the SwiftUI framework to provide an efficient and user-friendly experience directly on the Apple Watch.
 
 ## Features
 
