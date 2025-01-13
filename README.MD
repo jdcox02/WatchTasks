@@ -18,8 +18,8 @@
     ```
 2. Open the project in Xcode:
     ```bash
-    cd DailyTasksWatchApp
-    open DailyTasksWatchApp.xcodeproj
+    cd WatchTasks
+    open WatchTasks.xcodeproj
     ```
 3. Build and run the app on an Apple Watch simulator or your paired Apple Watch.
 
