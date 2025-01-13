@@ -14,7 +14,7 @@
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/DailyTasksWatchApp.git
+    git clone https://github.com/jdcox02/WatchTasks
     ```
 2. Open the project in Xcode:
     ```bash
