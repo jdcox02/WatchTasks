@@ -15,22 +15,22 @@
 ### **Daily Task List**  
 Users can **check off completed tasks**, add new ones, and manage their daily to-dos.  
 
-![Daily Tasks](https://raw.githubusercontent.com/yourusername/DailyTasksWatchApp/main/images/daily_tasks.png)  
+![Daily Tasks](https://raw.githubusercontent.com/jdcox02/WatchTasks/main/images/daily_tasks.png)  
 
 ### **Set a Reminder**  
 Users can set a **custom notification time** to receive daily reminders for pending tasks.  
 
-![Set Notification](https://raw.githubusercontent.com/yourusername/DailyTasksWatchApp/main/images/set_reminder.png)  
+![Set Notification](https://raw.githubusercontent.com/jdcox02/WatchTasks/main/images/set_reminder.png)  
 
 ### **Reminder Notification**  
 A **push notification** reminds users to complete their tasks for the day.  
 
-![Task Reminder](https://raw.githubusercontent.com/yourusername/DailyTasksWatchApp/main/images/reminder_notification.png)  
+![Task Reminder](https://raw.githubusercontent.com/jdcox02/WatchTasks/main/images/reminder_notification.png)  
 
 ### **Complication for Task Progress**  
 The watch face complication **displays the number of remaining tasks** for quick progress tracking.  
 
-![Task Progress](https://raw.githubusercontent.com/yourusername/DailyTasksWatchApp/main/images/complication.png)
+![Task Progress](https://raw.githubusercontent.com/jdcox02/WatchTasks/main/images/complication.png)
 
 ## Installation
 
