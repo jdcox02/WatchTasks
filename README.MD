@@ -17,6 +17,11 @@ Users can **check off completed tasks**, add new ones, and manage their daily to
 
 ![Daily Tasks](https://raw.githubusercontent.com/jdcox02/WatchTasks/main/images/daily_tasks.png)  
 
+#### **Task Progress Chart**
+The chart below shows how tasks are tracked over time, displaying the **number of completed tasks in blue** and **remaining tasks in gray**.
+
+![Task Progress](https://raw.githubusercontent.com/jdcox02/WatchTasks/main/images/task_progress.png)
+
 ### **Set a Reminder**  
 Users can set a **custom notification time** to receive daily reminders for pending tasks.  
 
